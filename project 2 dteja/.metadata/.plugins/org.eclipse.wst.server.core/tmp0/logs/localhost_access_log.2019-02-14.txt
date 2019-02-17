@@ -1,0 +1,17 @@
+127.0.0.1 - - [14/Feb/2019:19:26:21 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [14/Feb/2019:20:35:54 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [14/Feb/2019:20:39:50 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:27 +0530] "GET /client/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:30 +0530] "GET /client/images/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:30 +0530] "GET /client/controllers/jobcontroller.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:30 +0530] "GET /client/controllers/usercontroller.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:30 +0530] "GET /client/services/jobservice.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:30 +0530] "GET /client/js/app.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:30 +0530] "GET /client/services/userservice.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:43 +0530] "GET /client/views/home.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:44 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:48:47 +0530] "GET /client/views/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:49:01 +0530] "POST /middleware/login HTTP/1.1" 200 151
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:49:13 +0530] "GET /client/views/jobslist.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:49:14 +0530] "GET /middleware/getalljobs HTTP/1.1" 200 1405
+0:0:0:0:0:0:0:1 - - [14/Feb/2019:20:49:17 +0530] "PUT /middleware/logout HTTP/1.1" 200 -

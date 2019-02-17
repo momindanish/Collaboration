@@ -1,0 +1,289 @@
+
+Feb 06, 2019 11:40:18.64 NEW SESSION
+Feb 06, 2019 11:40:18.64 [9536:6896:0206/114018.640:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 06, 2019 11:40:44.23 [9536:6896:0206/114044.238:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 06, 2019 11:41:39.93 [9536:6896:0206/114139.930:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 06, 2019 11:43:11.25 [9536:6896:0206/114311.256:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 06, 2019 11:46:15.13 [9536:6896:0206/114615.131:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 06, 2019 12:07:13.43 [9536:13068:0206/120713.387:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -107
+Feb 06, 2019 12:07:14.03 [9536:13068:0206/120714.036:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -107
+Feb 06, 2019 12:18:05.14 [9536:13068:0206/121805.139:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:43:27.09 [9536:13068:0206/124327.094:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:43:33.28 [9536:13068:0206/124333.280:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:58:35.99 [9536:13068:0206/125835.988:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:59:44.36 [9536:13068:0206/125944.361:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:59:44.40 [9536:13068:0206/125944.404:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:59:44.48 [9536:13068:0206/125944.484:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:59:53.22 [9536:13068:0206/125953.226:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 12:59:58.82 [9536:13068:0206/125958.825:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 13:00:13.59 [9536:13068:0206/130013.591:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 13:00:17.71 [9536:13068:0206/130017.716:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 13:00:35.83 [9536:13068:0206/130035.834:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 06, 2019 13:12:48.18 [9536:13068:0206/131248.187:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+
+Feb 10, 2019 14:25:57.10 NEW SESSION
+Feb 10, 2019 14:25:57.10 [15532:12304:0210/142557.007:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.11 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.11 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.11 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.061:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.12 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.13 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.14 [15532:12304:0210/142557.062:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.15 [15532:12304:0210/142557.063:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.15 [15532:12304:0210/142557.063:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.15 [15532:12304:0210/142557.063:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.15 [15532:12304:0210/142557.063:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 10, 2019 14:25:57.15 [15532:12304:0210/142557.063:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+
+Feb 11, 2019 10:14:23.28 NEW SESSION
+Feb 11, 2019 10:14:23.28 [6728:20688:0211/101423.102:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.49 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.49 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.49 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.49 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.49 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.49 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.491:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.50 [6728:20688:0211/101423.492:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.492:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.492:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.492:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.492:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.492:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.493:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.51 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 10:14:23.52 [6728:20688:0211/101423.494:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 11, 2019 11:01:04.58 [6728:20688:0211/110104.579:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 11, 2019 11:01:33.25 [6728:20628:0211/110133.254:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 11, 2019 11:01:52.51 [6728:20628:0211/110152.518:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 11, 2019 11:01:54.83 [6728:20628:0211/110154.837:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 11, 2019 11:02:14.04 [6728:20628:0211/110214.041:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 11, 2019 11:02:14.04 [6728:20688:0211/110214.041:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Feb 12, 2019 11:42:38.03 NEW SESSION
+Feb 12, 2019 11:42:38.06 [22100:19852:0212/114237.937:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Feb 12, 2019 20:53:39.33 NEW SESSION
+Feb 12, 2019 20:53:39.33 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.48 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:53:39.49 [17400:16868:0212/205339.146:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.10 [22252:16136:0212/205758.071:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.20 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.20 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.20 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.21 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.22 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.23 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 12, 2019 20:57:58.24 [22252:16136:0212/205758.072:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+
+Feb 13, 2019 11:04:44.80 NEW SESSION
+Feb 13, 2019 11:04:44.80 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.86 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.790:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.87 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:44.88 [22708:22952:0213/110444.791:ERROR:in_progress_cache_impl.cc(203)] Cache is not initialized, cannot RetrieveEntry.
+Feb 13, 2019 11:04:56.38 [22708:19988:0213/110456.384:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:04:56.46 [22708:19988:0213/110456.464:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:05.08 [22708:19988:0213/110505.087:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:05.29 [22708:19988:0213/110505.294:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:06.72 [22708:19988:0213/110506.724:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:06.73 [22708:19988:0213/110506.736:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:15.88 [22708:19988:0213/110515.881:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:17.18 [22708:19988:0213/110517.180:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:18.44 [22708:19988:0213/110518.442:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:29.56 [22708:19988:0213/110529.560:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:43.40 [22708:19988:0213/110543.406:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:05:53.78 [22708:19988:0213/110553.784:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 13, 2019 11:06:20.33 [22708:19988:0213/110620.337:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:07:06.69 [22708:19988:0213/110706.691:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:07:45.03 [22708:19988:0213/110745.033:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:07:50.41 [22708:19988:0213/110750.411:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:08:07.71 [22708:19988:0213/110807.714:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:08:22.10 [22708:19988:0213/110822.106:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:08:44.25 [22708:19988:0213/110844.253:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:08:55.58 [22708:19988:0213/110855.586:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:05.11 [22708:19988:0213/110905.112:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:13.80 [22708:19988:0213/110913.805:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:19.60 [22708:19988:0213/110919.604:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:23.99 [22708:19988:0213/110923.989:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:24.46 [22708:19988:0213/110924.461:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:33.37 [22708:19988:0213/110933.367:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:47.56 [22708:19988:0213/110947.560:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:09:57.93 [22708:19988:0213/110957.931:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:10:22.31 [22708:19988:0213/111022.315:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:10:45.32 [22708:19988:0213/111045.325:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:10:50.81 [22708:19988:0213/111050.817:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:10:50.82 [22708:19988:0213/111050.820:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:07.19 [22708:19988:0213/111107.191:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:26.47 [22708:19988:0213/111126.470:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:40.49 [22708:19988:0213/111140.497:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:40.56 [22708:19988:0213/111140.568:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:41.89 [22708:19988:0213/111141.895:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:43.05 [22708:19988:0213/111143.053:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:59.80 [22708:19988:0213/111159.801:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:11:59.83 [22708:19988:0213/111159.835:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:01.24 [22708:19988:0213/111201.242:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:02.33 [22708:19988:0213/111202.336:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:11.22 [22708:19988:0213/111211.220:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:21.56 [22708:19988:0213/111221.564:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:30.56 [22708:19988:0213/111230.566:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:40.85 [22708:19988:0213/111240.853:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:12:49.85 [22708:19988:0213/111249.856:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:13:24.41 [22708:19988:0213/111324.412:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:13:37.57 [22708:19988:0213/111337.574:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:13:43.69 [22708:19988:0213/111343.699:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:13:45.53 [22708:19988:0213/111345.530:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:13:49.88 [22708:19988:0213/111349.883:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:13:56.87 [22708:19988:0213/111356.874:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:14:09.09 [22708:19988:0213/111409.091:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:14:32.12 [22708:19988:0213/111432.118:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:14:42.02 [22708:19988:0213/111442.019:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:14:51.49 [22708:19988:0213/111451.498:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:15:01.27 [22708:19988:0213/111501.272:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:15:19.04 [22708:19988:0213/111519.038:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:15:38.32 [22708:19988:0213/111538.321:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:16:17.79 [22708:19988:0213/111617.794:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:16:33.03 [22708:19988:0213/111633.038:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:16:33.03 [22708:19988:0213/111633.038:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:16:33.04 [22708:19988:0213/111633.042:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:16:37.06 [22708:19988:0213/111637.069:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:17:42.69 [22708:19988:0213/111742.695:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:18:01.98 [22708:19988:0213/111801.987:ERROR:ssl_client_socket_impl.cc(1013)] handshake failed; returned -1, SSL error code 1, net_error -101
+Feb 13, 2019 11:18:01.99 [22708:22952:0213/111801.989:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 13, 2019 11:18:57.88 [22708:22952:0213/111857.885:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 13, 2019 11:19:47.79 [22708:22952:0213/111947.795:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Feb 16, 2019 22:23:43.73 NEW SESSION
+Feb 16, 2019 22:23:44.39 [12548:15072:0216/222337.492:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Feb 16, 2019 22:24:26.67 [12548:15072:0216/222426.679:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Feb 16, 2019 23:23:16.62 NEW SESSION
+Feb 16, 2019 23:23:16.62 [13968:6388:0216/232316.619:ERROR:ssl_client_socket_impl.cc(964)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+Feb 16, 2019 23:45:58.81 NEW SESSION
+Feb 16, 2019 23:45:58.81 [10616:4116:0216/234558.783:ERROR:ssl_client_socket_impl.cc(964)] handshake failed; returned -1, SSL error code 1, net_error -100
+Feb 16, 2019 23:47:05.71 [10616:4116:0216/234705.716:ERROR:ssl_client_socket_impl.cc(964)] handshake failed; returned 0, SSL error code 6, net_error -107
